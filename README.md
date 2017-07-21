@@ -1,3 +1,45 @@
+## Learn Spring Framework
+- [ ] build
+- [ ] build.gradle
+- [ ] buildSrc
+- [ ] CODE_OF_CONDUCT.adoc
+- [ ] CONTRIBUTING-DOCUMENTATION.adoc
+- [ ] CONTRIBUTING.md
+- [ ] gradle
+- [ ] gradle.properties
+- [ ] gradlew
+- [ ] gradlew.bat
+- [ ] import-into-eclipse.bat
+- [ ] import-into-eclipse.sh
+- [ ] import-into-idea.md
+- [ ] README.md
+- [ ] settings.gradle
+- [ ] spring-aop
+- [ ] spring-aspects
+- [ ] spring-beans
+- [ ] spring-beans-groovy
+- [ ] spring-context
+- [ ] spring-context-indexer
+- [ ] spring-context-support
+- [ ] spring-core
+- [ ] spring-expression
+- [ ] spring-framework-bom
+- [ ] spring-instrument
+- [ ] spring-jcl
+- [ ] spring-jdbc
+- [ ] spring-jms
+- [ ] spring-messaging
+- [ ] spring-orm
+- [ ] spring-oxm
+- [ ] spring-test
+- [ ] spring-tx
+- [ ] spring-web
+- [ ] spring-webflux
+- [ ] spring-webmvc
+- [ ] spring-websocket
+- [ ] src
+
+
 ## Spring Framework
 The Spring Framework provides a comprehensive programming and configuration
 model for modern Java-based enterprise applications -- on any kind of deployment
